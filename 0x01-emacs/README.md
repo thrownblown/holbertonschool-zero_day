@@ -1,1 +1,1 @@
-Hello holberton!
+This project is about basic emacs usage
